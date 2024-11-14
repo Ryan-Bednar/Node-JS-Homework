@@ -8,11 +8,11 @@ import FileSystem from 'fs';
 const questions = ['Please provide the title of your project.', 
     'Please provide a description of your project.',  
     'Please provide the table of contents for this ReadME.',
-    'Please provide usage information.', 
+    'Please provide information on how to use this project.', 
     'Please provide license information.', 
     'Please provide instructions on how to contribute to your project.', 
     'Please provide any tests you have written.', 
-    'Please include any questions you may have.',
+    'Please include your contact information for questions regarding the project.',
 ];
 
 // TODO: Create a function to write README file
